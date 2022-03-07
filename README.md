@@ -7,6 +7,6 @@ Hi, I'm Mariano.
 - Mis proyectos:
 
 - ***Animales perdidos:***
-- Ver Github(https://github.com)
-- Visitar Web Animales perdidos
+- Ver [Github](https://github.com/MarianoMoyano/Animales-perdidos)
+- Visitar [Web Animales perdidos]
 - Descripción: proyecto web para que las mascotas que se escapen de sus hogares puedan regresar a los mismos.
