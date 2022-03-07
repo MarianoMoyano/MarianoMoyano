@@ -1,7 +1,7 @@
 Hi, I'm Mariano.
 
 - 💣 I’m currently learning frontend technologies.
-- 📫 How to reach me: 
+- 📫 How to reach me: marianolmoyano@gmail.com
 
 
 - ### Mis proyectos:
