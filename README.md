@@ -1,4 +1,4 @@
-Hi, I'm Mariano.
+## Hi, I'm Mariano.
 
 - 💣 I’m currently learning frontend technologies.
 - 📫 How to reach me: marianolmoyano@gmail.com
