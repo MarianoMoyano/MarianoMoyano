@@ -8,5 +8,5 @@
 
 - ***Animales perdidos:***
 - Ver [Github](https://github.com/MarianoMoyano/Animales-perdidos)
-- Visitar [Web Animales perdidos]
+- Visitar [Web Animales perdidos](https://marianomoyano.github.io/Animales-perdidos/index.html)
 - Descripción: proyecto web para que las mascotas que se escapen de sus hogares puedan regresar a los mismos.
