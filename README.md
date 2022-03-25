@@ -6,15 +6,19 @@
 
 - ### Mis proyectos:
 
--***Animales perdidos:***
--Ver [Github](https://github.com/MarianoMoyano/Animales-perdidos)
--Visitar [Web Animales perdidos](https://marianomoyano.github.io/Animales-perdidos/index.html)
--Descripción: proyecto web para que las mascotas que se escapen de sus hogares puedan regresar a los mismos.
+- ***Animales perdidos:***
+- Ver [Github](https://github.com/MarianoMoyano/Animales-perdidos)
+- Visitar [Web Animales perdidos](https://marianomoyano.github.io/Animales-perdidos/index.html)
+- Descripción: proyecto web para que las mascotas que se escapen de sus hogares puedan regresar a los mismos.
+
+.
 
 - ***Mercado Free:***
 - Ver [Github](https://github.com/MarianoMoyano/Mercado-free)
 - Visitar [Web Mercado Free]()
 - Descripción: proyecto web, imitacion de la web de Mercado Libre.
+
+.
 
 - ***Mi portfolio:***
 - Ver [Github]()
